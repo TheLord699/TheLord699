@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm TheLord699
 
-<!--
-**TheLord699/TheLord699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I make games. Started as a hobby, still is a hobby, learned a lot along the way. Self-taught, project-driven.
+
+**Currently using:**
+- Rust, C++, Odin (mostly Odin lately)
+- Raylib, Pygame, SDL3
+- Learning OpenGL
+
+**Also have experience with:**
+- Unity, Godot
+
+**A note on my repos:**  
+Some of my older code reflects earlier skills and different design decisions. The newer stuff is closer to how I actually write now.
+
+---
+
+## Main Project: Side Scroller (Python + Pygame)
+
+My biggest project so far. Combat, inventory, lighting, save/load, debug tools, an in-game terminal.
+
+🎮 **[Repo here](https://github.com/TheLord699/SideScrollerPython)**
+
+---
+
+## Languages & Tools
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Odin](https://img.shields.io/badge/-Odin-6B2FA0?style=flat-square&logo=odin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Raylib](https://img.shields.io/badge/-Raylib-000000?style=flat-square&logo=raylib&logoColor=white)
+![SDL3](https://img.shields.io/badge/-SDL3-092E20?style=flat-square&logo=sdl&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-00AA00?style=flat-square&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheLord699&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLord699&layout=compact&theme=radical"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheLord699&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
