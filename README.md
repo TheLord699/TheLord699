@@ -13,11 +13,15 @@ I make games. Started as a hobby, still is a hobby, learned a lot along the way.
 > **A note on my repos:**  
 > Some of my older code reflects earlier skills and different design decisions. The newer stuff is closer to how I actually write now.
 
+---
+
 ## Main Project: Side Scroller (Python + Pygame)
 
 My biggest project so far. Combat, inventory, lighting, save/load, debug tools, an in-game terminal.
 
 🎮 **[SideScrollerPython](https://github.com/TheLord699/SideScrollerPython)**
+
+---
 
 ## Languages & Tools
 
@@ -31,14 +35,26 @@ My biggest project so far. Combat, inventory, lighting, save/load, debug tools, 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
+---
+
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheLord699&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLord699&layout=compact&theme=radical" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheLord699&show_icons=true&theme=radical&cache_seconds=3600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheLord699&show_icons=true&theme=default&cache_seconds=3600" />
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheLord699&show_icons=true&theme=radical&cache_seconds=3600" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLord699&layout=compact&theme=radical&cache_seconds=3600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLord699&layout=compact&theme=default&cache_seconds=3600" />
+    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLord699&layout=compact&theme=radical&cache_seconds=3600" />
+  </picture>
 </div>
 
 ---
+
+## Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TheLord699&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
