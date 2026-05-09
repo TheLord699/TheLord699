@@ -1,11 +1,14 @@
 ## About Me
 
-I make games. Started as a hobby, still is a hobby, learned a lot along the way. Self-taught, project-driven.
+I make games. Started as a hobby, and learned a lot along the way. Self-taught, project-driven.
 
 **Currently using:**
-- Rust, C++, Odin (mostly Odin lately)
+- Rust, C++, Odin
 - Raylib, Pygame, SDL3
 - Learning OpenGL
+
+Im considering Odin for my future projects
+Im only displaying a few of my projects on my git for now(will display some more Odin related repos soon)
 
 **Also have experience with:**
 - Unity, Godot
