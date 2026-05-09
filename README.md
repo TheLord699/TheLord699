@@ -37,23 +37,6 @@ My biggest project so far. Combat, inventory, lighting, save/load, debug tools, 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheLord699&show_icons=true&theme=radical&cache_seconds=3600" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheLord699&show_icons=true&theme=default&cache_seconds=3600" />
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheLord699&show_icons=true&theme=radical&cache_seconds=3600" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLord699&layout=compact&theme=radical&cache_seconds=3600" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLord699&layout=compact&theme=default&cache_seconds=3600" />
-    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLord699&layout=compact&theme=radical&cache_seconds=3600" />
-  </picture>
-</div>
-
----
-
 ## Profile Views
 
 <div align="center">
