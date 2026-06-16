@@ -1,6 +1,8 @@
 ## About Me
 
-I make games. Started as a hobby, and learned a lot along the way. Self-taught, project-driven.
+I make games.
+
+programming started out as a hobby and I've been addicted since I started
 
 **Currently using:**
 - Rust, C++, Odin
