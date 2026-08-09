@@ -2,7 +2,7 @@
 
 I make games.
 
-programming started out as a hobby and I've been addicted since I started
+programming started out as a hobby and I've been addicted since
 
 **Currently using:**
 - Rust, C++, Odin
