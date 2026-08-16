@@ -28,6 +28,12 @@ My biggest project so far. Combat, inventory, lighting, save/load, debug tools, 
 
 ---
 
+## Other projects
+
+Snake written in Odin
+
+🎮 **[SnakeInOdin](https://github.com/TheLord699/Snake-in-Odin)**
+
 ## Languages & Tools
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
