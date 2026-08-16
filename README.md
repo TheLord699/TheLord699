@@ -30,9 +30,8 @@ My biggest project so far. Combat, inventory, lighting, save/load, debug tools, 
 
 ## Other projects
 
-Snake written in Odin
-
 🎮 **[SnakeInOdin](https://github.com/TheLord699/Snake-in-Odin)**
+🎮 **[FlappyBird](https://github.com/TheLord699/FlappyBird)**
 
 ## Languages & Tools
 
