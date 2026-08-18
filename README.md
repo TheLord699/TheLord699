@@ -5,7 +5,7 @@ I make games.
 programming started out as a hobby and I've been addicted since
 
 **Currently using:**
-- Rust, C++, Odin
+- Rust, C++, Odin, Python
 - Raylib, Pygame, SDL3
 - Learning OpenGL
 
