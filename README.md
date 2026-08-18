@@ -33,6 +33,10 @@ My biggest project so far. Combat, inventory, lighting, save/load, debug tools, 
 🎮 **[SnakeInOdin](https://github.com/TheLord699/Snake-in-Odin)**
 🎮 **[FlappyBird](https://github.com/TheLord699/FlappyBird)**
 
+## My Music Playlist
+
+🎵 **[YouTube](https://youtube.com/playlist?list=PLqNzeFQ2cgxmiBLAps8VoZaZUt4lbesTU&si=OdvO3dGoGzKYvwT9)**
+
 ## Languages & Tools
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
